@@ -66,7 +66,7 @@ class LLMClient:
 
 # 实现OpenAI DALL-E的图像生成客户端
 class ImageGeneratorClient:
-    def __init__(self, api_key=None, model="gpt-4o-alle", size="1024x1024"):
+    def __init__(self, api_key=None, model="gpt-4o-image", size="1024x1024"):
         """
         初始化OpenAI DALL-E客户端
         
