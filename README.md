@@ -26,7 +26,7 @@
 
 1. 克隆仓库（不是克隆您导师的研究方向）：
    ```
-   git clone https://github.com/erliufashi/Jingye-Academic-Article-Generator
+   git clone [https://github.com/erliufashi/Jingye-Academic-Article-Generator](https://github.com/erliufashi/Jingye-Academic-Article-Generator.git)
    cd md_writer_poketflow
    ```
 
