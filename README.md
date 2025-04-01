@@ -4,11 +4,11 @@
 
 欢迎来到"京爷学术文档生成器"——让您在学术圈摇摆起来的AI神器！
 
-> "不写论文的科研人员不是好程序员！" —— 京爷
+> "不写论文的科研人员不是好程序员！" —— 京✌️
 
 ## 功能特点
 
-- 🤖 基于最新大语言模型（Gemini 2.5 Pro），模仿京爷写作风格，生成高质量学术文档，瞬间变身学术大佬
+- 🤖 基于最新大语言模型（Gemini 2.5 Pro），模仿京爷写作风格生成高质量学术文档，瞬间变身京圈学术大佬
 - 🎨 使用GPT-4o-image生成专业的方法图和流程图，告别PowerPoint的折磨
 - 📝 自动规划文档结构、内容要点和配图位置，拯救您的科研生涯
 - 📊 在文档适当位置自动插入图片引用，假装您真的花了一个月做图
@@ -24,7 +24,7 @@
 
 ### 安装步骤
 
-1. 克隆仓库（不是克隆您导师的研究方向）：
+1. 克隆仓库：
    ```
    git clone [https://github.com/erliufashi/Jingye-Academic-Article-Generator](https://github.com/erliufashi/Jingye-Academic-Article-Generator.git)
    cd md_writer_poketflow
@@ -147,7 +147,7 @@ python main.py
 
 ## 许可证
 
-本项目采用 [MIT 许可证](LICENSE)（比学术界的知识共享精神还要开放）。
+本项目采用 [MIT 许可证](LICENSE)。
 
 ## 贡献
 
