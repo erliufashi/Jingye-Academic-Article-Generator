@@ -1,5 +1,4 @@
-
-![飞机5](data/飞机5.png)
+ <img src="data/飞机3.png" width = "300" height = "200" alt="飞机3" align=center />
 
 # 京爷学术文档生成器
 
@@ -96,7 +95,7 @@ python main.py
 ![文档生成器-示例](data/文档生成器-示例.png)
 ![文档生成器-示例](data/文档生成器-示例2.png)
 ![微分场流程图1](data/微分场流程图1.png)
-![飞机3](data/飞机3.png)
+<img src="data/飞机5.png" width = "300" height = "200" alt="飞机5" align=center />
 
 更多效果请见`output`文件夹。
 
